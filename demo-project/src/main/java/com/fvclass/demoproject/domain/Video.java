@@ -6,6 +6,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * @author fv
+ * @date 2021/2/23
+ */
 public class Video implements Serializable {
     private int id;
 
